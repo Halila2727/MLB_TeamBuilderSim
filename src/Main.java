@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class Main 
+{
+    public static void main(String[] args) 
+    {
         Scanner scanner = new Scanner(System.in);
         String input = "";
 
@@ -11,7 +13,8 @@ public class Main {
         System.out.print("Do you want to pick a randomly selected team? (Type Y to continue): ");
         System.out.flush();  // Ensure the prompt is displayed immediately
 
-        while (true) {
+        while (true) 
+        {
             input = scanner.nextLine();
 
             if (input.equalsIgnoreCase("Y")) {
@@ -19,8 +22,10 @@ public class Main {
                 System.out.println("Your randomly selected team is: " + selectedTeam.getTeam());
                 System.out.println(); // Add a blank line for better readability
                 break;
-            } else {
-                System.out.println("Invalid input. Please type Y for yes or N to exit.");
+            } 
+            else 
+            {
+                System.out.println("Invalid input. Please type Y for yes");
                 System.out.flush();  // Ensure the prompt is displayed immediately
             }
         }
