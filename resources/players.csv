@@ -1,0 +1,271 @@
+position, name, team, ab, avg, hr, obp, slg, bwar
+"C", "Francisco Alvarez", "New York Mets", 423,	209, 25, 284, 437, 1.0
+"1B", "Pete Alonso", "New York Mets", 658, 217, 46, 318, 504, 3.2
+"2B", "Jeff McNeil", "New York Mets", 648, 270, 10, 333, 378, 2.4
+"SS", "Francisco Lindor", "New York Mets", 687, 254, 31, 336, 470, 6.0
+"3B", "Brett Baty", "New York Mets", 389, 212, 9, 275, 323, -0.8
+"LF", "Mark Canha", "New York Mets", 507, 262, 11, 355, 400, 2.2
+"CF", "Brandon Nimmo", "New York Mets", 682, 274, 24, 363, 466, 3.9
+"RF", "Sterling Marte", "New York Mets", 341, 248, 5, 301, 324, -0.8
+"DH", "Daniel Vogelbach", "New York Mets", 319,	233, 13, 339, 404, 0.2
+"C", "Gabriel Moreno", "Arizona Diamondbacks", 380,	284, 7, 339, 408, 4.3
+"1B", "Christian Walker", "Arizona Diamondbacks", 661, 258, 33, 333, 497, 3.8
+"2B", "Ketel Marte", "Arizona Diamondbacks", 650, 276, 25, 358, 485, 4.9
+"SS", "Geraldo Perdomo", "Arizona Diamondbacks", 495, 246, 6, 353, 359, 2.3
+"3B", "Evan Longoria", "Arizona Diamondbacks", 237, 223, 11, 295, 422, 0.5
+"LF", "Lourdes Gurriel Jr.", "Arizona Diamondbacks", 592, 261, 24, 309, 463, 3.0
+"CF", "Alek Thomas", "Arizona Diamondbacks", 402, 230, 9, 273, 374, 1.1
+"RF", "Corbin Carroll", "Arizona Diamondbacks", 645, 285, 25, 362, 506, 5.4
+"DH", "Tommy Pham", "Arizona Diamondbacks", 481, 256, 16, 328, 446, 1.5
+"C", "Sean Murphy", "Atlanta Braves", 438, 251, 21, 365, 478, 3.9
+"1B", "Matt Olson", "Atlanta Braves", 720, 283, 54, 389, 604, 7.4
+"2B", "Ozzie Albies", "Atlanta Braves", 660, 280, 33, 336, 513, 4.7
+"SS", "Orlando Arcia", "Atlanta Braves", 533, 264, 17, 321, 420, 1.6
+"3B", "Austin Riley", "Atlanta Braves", 715, 281, 37, 345, 516, 5.9
+"LF", "Eddie Rosario, "Atlanta Braves", 516, 255, 21, 305, 450, 1.1
+"CF", "Michael Harris II", "Atlanta Braves", 539, 293, 18, 331, 477, 3.4
+"RF", "Ronald Acuna Jr.", "Atlanta Braves", 735, 337, 41, 416, 596, 8.2
+"DH", "Marcell Ozuna", "Atlanta Braves", 592, 274, 40, 346, 558, 3.3
+"C", "Yan Gomes", "Chicago Cubs", 419, 267, 10, 315, 408, 1.7
+"1B", "Cody Bellinger", "Chicago Cubs", 556, 307, 26, 356, 515, 4.4
+"2B", "Nico Hoerner", "Chicago Cubs", 688, 283, 9, 346, 383, 5.1
+"SS", "Dansby Swanson", "Chicago Cubs", 638, 244, 22, 328, 416, 4.8
+"3B", "Nick Madrigal", "Chicago Cubs", 294, 263, 2, 311, 352, 1.2
+"LF", "Ian Happ", "Chicago Cubs", 691, 248, 21, 360, 431, 3.0
+"CF", "Mike Tauchman", "Chicago Cubs", 401, 252, 8, 363, 377, 2.4
+"RF", "Seiya Suzuki", "Chicago Cubs", 583, 285, 20, 357, 485, 2.8
+"DH", "Christopher Morel", "Chicago Cubs", 429, 247, 26, 313, 508, 1.2
+"C", ""Tyler Stephenson, "Cincinnati Reds", 517, 243, 13, 317, 378, 0.7
+"1B", "Spencer Steer", "Cincinnati Reds", 665, 271, 23, 356, 464, 2.9
+"2B", "Jonathan India", "Cincinnati Reds", 529, 244, 17, 338, 407, 1.4
+"SS", "Matt McLain", "Cincinnati Reds", 403, 290, 16, 357, 507, 3.7
+"3B", "Elly De La Cruz", "Cincinnati Reds", 427, 235, 13, 300, 410, 0.9
+"LF", "Stuart Fairchild", "Cincinnati Reds", 255, 228, 5, 321, 388, 0.5
+"CF", "TJ Friedl", "Cincinnati Reds", 556, 279, 18, 352, 467, 3.8
+"RF", "Will Benson", "Cincinnati Reds", 329, 275, 11, 365, 498, 1.6
+"DH", "Christian Encarnacion-Strand", "Cincinnati Reds", 241, 270, 13, 328, 477, 0.6
+"C", "Elias Diaz", "Colorado Rockies", 526,	267, 14, 316, 409, 1.4
+"1B", "C.J. Cron", "Colorado Rockies", 278, 248, 12, 295, 434, -0.6
+"2B", "Harold Castro", "Colorado Rockies", 270, 252, 1, 275, 314, -1.4
+"SS", "Ezequiel Tovar", "Colorado Rockies", 615, 253, 15, 287, 408, 2.5
+"3B", "Ryan McMahon", "Colorado Rockies", 627, 240, 23, 322, 431, 2.9
+"LF", "Nolan Jones", "Colorado Rockies", 424, 297, 20, 389, 542, 4.3
+"CF", "Brenton Doyle", "Colorado Rockies", 431, 203, 10, 250, 343, 0.9
+"RF", "Kris Bryant", "Colorado Rockies", 335, 233, 10, 313, 367, -1.0
+"DH", "Charlie Blackmon", "Colorado Rockies", 413, 279, 8, 363, 440, 1.3
+"C", "Will Smith", "Los Angeles Dodgers", 554, 261, 19, 359, 438, 4.1
+"1B", "Freddie Freeman", "Los Angeles Dodgers", 730, 331, 29, 410, 567, 6.5
+"2B", "Mookie Betts", "Los Angeles Dodgers", 693, 307, 39, 408, 579, 8.3
+"SS", "Miguel Rojas", "Los Angeles Dodgers", 423, 236, 5, 290, 322, 1.3
+"3B", "Max Muncy", "Los Angeles Dodgers", 579, 212, 36, 333, 475, 2.6
+"LF", "David Peralta", "Los Angeles Dodgers", 422, 259, 7, 294, 381, 0.6
+"CF", "James Outman", "Los Angeles Dodgers", 567, 248, 23, 353, 437, 3.3
+"RF", "Jason Heyward", "Los Angeles Dodgers", 377, 269, 15, 340, 473, 1.9
+"DH", "J.D. Martinez", "Los Angeles Dodgers", 479, 271, 33, 321, 572, 1.9
+"C", "Nick Fortes", "Miami Marlins", 323, 204, 6, 263, 299, -0.1
+"1B", "Josh Bell", "Miami Marlins", 617, 247, 22, 325, 419, 0.4
+"2B", "Luis Arraez", "Miami Marlins", 617, 354, 10, 393, 469, 4.9
+"SS", "Jon Berti", "Miami Marlins", 424, 294, 7, 344, 405, 2.4
+"3B", "Jake Burger", "Miami Marlins", 540, 250, 34, 309, 518, 2.5
+"LF", "Bryan De La Cruz", "Miami Marlins", 626, 257, 19, 304, 411, -0.3
+"CF", "Jazz Chisholm Jr.", "Miami Marlins", 383, 250, 19, 304, 457, 1.2
+"RF", "Jesus Sanchez", "Miami Marlins", 402, 253, 14, 327, 450, 1.7
+"DH", "Jorge Soler", "Miami Marlins", 580, 250, 36, 341, 512, 1.8
+"C", "William Contreras", "Milwaukee Brewers", 611, 289, 17, 367, 457, 3.8
+"1B", "Carlos Santana", "Milwaukee Brewers", 619, 240, 23, 318, 429, 2.7
+"2B", "Brice Turang", "Milwaukee Brewers", 448, 218, 6, 285, 300, 1.6
+"SS", "Willy Adames", "Milwaukee Brewers", 638, 217, 24, 310, 407, 3.0
+"3B", "Brian Anderson", "Milwaukee Brewers", 361, 226, 9, 310, 368, 0.5
+"LF", "Christian Yelich", "Milwaukee Brewers", 632, 278, 19, 370, 447, 3.6
+"CF", "Joey Wiemer", "Milwaukee Brewers", 410, 204, 13, 283, 362, 0.9
+"RF", "Tyrone Taylor", "Milwaukee Brewers", 243, 234, 10, 267, 446, 0.5
+"DH", "Mark Canha", "Milwaukee Brewers", 507, 262, 11, 355, 400, 2.2
+"C", "J.T. Realmuto", "Philadelphia Phillies", 540,	252, 20, 310, 452, 3.6
+"1B", "Bryce Harper", "Philadelphia Phillies", 546, 293, 21, 401, 499, 3.7
+"2B", "Bryson Stott", "Philadelphia Phillies", 640, 280, 15, 329, 419, 4.3
+"SS", "Trea Turner", "Philadelphia Phillies", 691, 266, 26, 320, 459, 3.4
+"3B", "Alec Bohm", "Philadelphia Phillies", 611, 274, 20, 327, 437, 0.4
+"LF", "Jake Cave", "Philadelphia Phillies", 203, 212, 5, 272, 348, -0.2
+"CF", "Brandon Marsh", "Philadelphia Phillies", 472, 277, 12, 372, 458, 3.4
+"RF", "Nick Castellanos", "Philadelphia Phillies", 671, 272, 29, 311, 476, 1.5
+"DH", "Kyle Schwarber", "Philadelphia Phillies", 720, 197, 47, 343, 474, 0.6
+"C", "Austin Hedges", "Pittsburgh Pirates", 212, 184, 1, 234, 227, -1.1
+"1B", "Carlos Santana", "Pittsburgh Pirates", 619, 240, 23, 318, 429, 2.7
+"2B", "Ji Hwan Bae", "Pittsburgh Pirates", 371, 231, 2, 296, 311, -0.4
+"SS", "Rodolfo Castro", "Pittsburgh Pirates", 256, 211, 6, 297, 322, -0.5
+"3B", "Ke'Bryan Hayes", "Pittsburgh Pirates", 525, 271, 15, 309, 453, 4.0
+"LF", "Bryan Reynolds", "Pittsburgh Pirates", 640, 263, 24, 330, 460, 2.4
+"CF", "Jack Suwinski", "Pittsburgh Pirates", 534, 224, 26, 339, 454, 2.2
+"RF", "Connor Joe", "Pittsburgh Pirates", 472, 247, 11, 339, 421, 0.7
+"DH", "Andrew McCutchen", "Pittsburgh Pirates", 473, 256, 12, 378, 397, 1.5
+"C", "Gary Sanchez", "San Diego Padres", 267, 217, 19, 288, 492, 2.4
+"1B", "Jake Cronenworth", "San Diego Padres", 522, 229, 10, 312, 378, 1.0
+"2B", "Ha-Seong Kim", "San Diego Padres", 626, 260, 17, 351, 398, 5.8
+"SS", "Xander Bogaerts", "San Diego Padres", 665, 285, 19, 350, 440, 4.4
+"3B", "Manny Machado", "San Diego Padres", 601, 258, 30, 319, 462, 2.9
+"LF", "Juan Soto", "San Diego Padres", 708, 275, 35, 410, 519, 5.5
+"CF", "Trent Grisham", "San Diego Padres", 555, 198, 13, 315, 352, 2.0
+"RF", "Fernando Tatis Jr.", "San Diego Padres", 635, 257, 25, 322, 449, 5.5
+"DH", "Matt Carpenter", "San Diego Padres", 237, 176, 5, 322, 319, -0.3
+"C", "Patrick Bailey", "San Francisco Giants", 353,	233, 7, 285, 359, 0.8
+"1B", "LaMonte Wade Jr.", "San Francisco Giants", 519, 256, 17, 373, 417, 2.7
+"2B", "Thairo Estrada", "San Francisco Giants", 530, 271, 14, 315, 416, 2.3
+"SS", "Brandon Crawford", "San Francisco Giants", 320, 194, 7, 273, 314, -1.3
+"3B", "J.D. Davis", "San Francisco Giants", 546, 248, 18, 325, 413, 0.9
+"LF", "Joc Pederson", "San Francisco Giants", 425, 235, 15, 348, 416, 0.6
+"CF", "Mike Yastrzemski", "San Francisco Giants", 381, 233, 15, 330, 445, 2.4
+"RF", "Michae; Conforto", "San Francisco Giants", 470, 239, 15, 334, 384, 0.7
+"DH", "Wilmer Flores", "San Francisco Giants", 454, 284, 23, 355, 509, 2.6
+"C", "Willson Contreras", "St. Louis Cardinals", 495, 264, 20, 358, 467, 3.4
+"1B", "Paul Goldschmidt", "St. Louis Cardinals", 687, 268, 25, 363, 447, 3.4
+"2B", "Nolan Gorman", "St. Louis Cardinals", 464, 236, 27, 328, 478, 2.4
+"SS", "Tommy Edman", "St. Louis Cardinals", 528, 248, 13, 307, 399, 2.1
+"3B", "Nolan Arenado", "St. Louis Cardinals", 612, 266, 26, 315, 459, 2.4
+"LF", "Brendan Donovan", "St. Louis Cardinals", 371, 284, 11, 365, 422, 1.9
+"CF", "Lars Nootbaar", "St. Louis Cardinals", 503, 261, 14, 367, 418, 3.3
+"RF", "Jordan Walker", "St. Louis Cardinals", 465, 276, 16, 342, 445, -0.1
+"DH", "Alec Burleson", "St. Louis Cardinals", 347, 244, 8, 300, 390, -0.6
+"C", "Keibert Ruiz", "Washington Nationals", 562, 260, 18, 308, 409, 1.3
+"1B", "Dominic Smith", "Washington Nationals", 586, 254, 12, 326, 366, 0.9
+"2B", "Luis Garcia Jr.", "Washington Nationals", 482, 266, 9, 304, 385, 0.7
+"SS", "CJ Abrams", "Washington Nationals", 614, 245, 18, 300, 412, 3.4
+"3B", "Jeimer Candelario", "Washington Nationals", 576, 251, 22, 336, 471, 2.9
+"LF", "Stone Garrett", "Washington Nationals", 271, 269, 9, 343, 457, 1.9
+"CF", "Alex Call", "Washington Nationals", 439, 200, 8, 307, 307, 1.1
+"RF", "Lane Thomas", "Washington Nationals", 682, 268, 28, 315, 468, 3.2
+"DH", "Joey Meneses", "Washington Nationals", 657, 275, 13, 321, 401, 0.5
+"C", "", "Baltimore Orioles", ,	, , , , 
+"1B", "", "Baltimore Orioles", , , , , ,
+"2B", "", "Baltimore Orioles", , , , , ,
+"SS", "", "Baltimore Orioles", , , , , ,
+"3B", "", "Baltimore Orioles", , , , , ,
+"LF", "", "Baltimore Orioles", , , , , ,
+"CF", "", "Baltimore Orioles", , , , , ,
+"RF", "", "Baltimore Orioles", , , , , ,
+"DH", "", "Baltimore Orioles", , , , , ,
+"C", "", "Boston Red Sox", ,	, , , , 
+"1B", "", "Boston Red Sox", , , , , ,
+"2B", "", "Boston Red Sox", , , , , ,
+"SS", "", "Boston Red Sox", , , , , ,
+"3B", "", "Boston Red Sox", , , , , ,
+"LF", "", "Boston Red Sox", , , , , ,
+"CF", "", "Boston Red Sox", , , , , ,
+"RF", "", "Boston Red Sox", , , , , ,
+"DH", "", "Boston Red Sox", , , , , ,
+"C", "", "Chicago White Sox", ,	, , , , 
+"1B", "", "Chicago White Sox", , , , , ,
+"2B", "", "Chicago White Sox", , , , , ,
+"SS", "", "Chicago White Sox", , , , , ,
+"3B", "", "Chicago White Sox", , , , , ,
+"LF", "", "Chicago White Sox", , , , , ,
+"CF", "", "Chicago White Sox", , , , , ,
+"RF", "", "Chicago White Sox", , , , , ,
+"DH", "", "Chicago White Sox", , , , , ,
+"C", "", "Cleveland Guardians", ,	, , , , 
+"1B", "", "Cleveland Guardians", , , , , ,
+"2B", "", "Cleveland Guardians", , , , , ,
+"SS", "", "Cleveland Guardians", , , , , ,
+"3B", "", "Cleveland Guardians", , , , , ,
+"LF", "", "Cleveland Guardians", , , , , ,
+"CF", "", "Cleveland Guardians", , , , , ,
+"RF", "", "Cleveland Guardians", , , , , ,
+"DH", "", "Cleveland Guardians", , , , , ,
+"C", "", "Detroit Tigers", ,	, , , , 
+"1B", "", "Detroit Tigers", , , , , ,
+"2B", "", "Detroit Tigers", , , , , ,
+"SS", "", "Detroit Tigers", , , , , ,
+"3B", "", "Detroit Tigers", , , , , ,
+"LF", "", "Detroit Tigers", , , , , ,
+"CF", "", "Detroit Tigers", , , , , ,
+"RF", "", "Detroit Tigers", , , , , ,
+"DH", "", "Detroit Tigers", , , , , ,
+"C", "", "Houston Astros", ,	, , , , 
+"1B", "", "Houston Astros", , , , , ,
+"2B", "", "Houston Astros", , , , , ,
+"SS", "", "Houston Astros", , , , , ,
+"3B", "", "Houston Astros", , , , , ,
+"LF", "", "Houston Astros", , , , , ,
+"CF", "", "Houston Astros", , , , , ,
+"RF", "", "Houston Astros", , , , , ,
+"DH", "", "Houston Astros", , , , , ,
+"C", "", "Kansas City Royals", ,	, , , , 
+"1B", "", "Kansas City Royals", , , , , ,
+"2B", "", "Kansas City Royals", , , , , ,
+"SS", "", "Kansas City Royals", , , , , ,
+"3B", "", "Kansas City Royals", , , , , ,
+"LF", "", "Kansas City Royals", , , , , ,
+"CF", "", "Kansas City Royals", , , , , ,
+"RF", "", "Kansas City Royals", , , , , ,
+"DH", "", "Kansas City Royals", , , , , ,
+"C", "", "Los Angeles Angels", ,	, , , , 
+"1B", "", "Los Angeles Angels", , , , , ,
+"2B", "", "Los Angeles Angels", , , , , ,
+"SS", "", "Los Angeles Angels", , , , , ,
+"3B", "", "Los Angeles Angels", , , , , ,
+"LF", "", "Los Angeles Angels", , , , , ,
+"CF", "", "Los Angeles Angels", , , , , ,
+"RF", "", "Los Angeles Angels", , , , , ,
+"DH", "", "Los Angeles Angels", , , , , ,
+"C", "", "Minnesota Twins", ,	, , , , 
+"1B", "", "Minnesota Twins", , , , , ,
+"2B", "", "Minnesota Twins", , , , , ,
+"SS", "", "Minnesota Twins", , , , , ,
+"3B", "", "Minnesota Twins", , , , , ,
+"LF", "", "Minnesota Twins", , , , , ,
+"CF", "", "Minnesota Twins", , , , , ,
+"RF", "", "Minnesota Twins", , , , , ,
+"DH", "", "Minnesota Twins", , , , , ,
+"C", "", "New York Yankees", ,	, , , , 
+"1B", "", "New York Yankees", , , , , ,
+"2B", "", "New York Yankees", , , , , ,
+"SS", "", "New York Yankees", , , , , ,
+"3B", "", "New York Yankees", , , , , ,
+"LF", "", "New York Yankees", , , , , ,
+"CF", "", "New York Yankees", , , , , ,
+"RF", "", "New York Yankees", , , , , ,
+"DH", "", "New York Yankees", , , , , ,
+"C", "", "Oakland Athletics", ,	, , , , 
+"1B", "", "Oakland Athletics", , , , , ,
+"2B", "", "Oakland Athletics", , , , , ,
+"SS", "", "Oakland Athletics", , , , , ,
+"3B", "", "Oakland Athletics", , , , , ,
+"LF", "", "Oakland Athletics", , , , , ,
+"CF", "", "Oakland Athletics", , , , , ,
+"RF", "", "Oakland Athletics", , , , , ,
+"DH", "", "Oakland Athletics", , , , , ,
+"C", "", "Seattle Mariners", ,	, , , , 
+"1B", "", "Seattle Mariners", , , , , ,
+"2B", "", "Seattle Mariners", , , , , ,
+"SS", "", "Seattle Mariners", , , , , ,
+"3B", "", "Seattle Mariners", , , , , ,
+"LF", "", "Seattle Mariners", , , , , ,
+"CF", "", "Seattle Mariners", , , , , ,
+"RF", "", "Seattle Mariners", , , , , ,
+"DH", "", "Seattle Mariners", , , , , ,
+"C", "", "Tampa Bay Rays", ,	, , , , 
+"1B", "", "Tampa Bay Rays", , , , , ,
+"2B", "", "Tampa Bay Rays", , , , , ,
+"SS", "", "Tampa Bay Rays", , , , , ,
+"3B", "", "Tampa Bay Rays", , , , , ,
+"LF", "", "Tampa Bay Rays", , , , , ,
+"CF", "", "Tampa Bay Rays", , , , , ,
+"RF", "", "Tampa Bay Rays", , , , , ,
+"DH", "", "Tampa Bay Rays", , , , , ,
+"C", "", "Texas Rangers", ,	, , , , 
+"1B", "", "Texas Rangers", , , , , ,
+"2B", "", "Texas Rangers", , , , , ,
+"SS", "", "Texas Rangers", , , , , ,
+"3B", "", "Texas Rangers", , , , , ,
+"LF", "", "Texas Rangers", , , , , ,
+"CF", "", "Texas Rangers", , , , , ,
+"RF", "", "Texas Rangers", , , , , ,
+"DH", "", "Texas Rangers", , , , , ,
+"C", "", "Toronto Blue Jays", ,	, , , , 
+"1B", "", "Toronto Blue Jays", , , , , ,
+"2B", "", "Toronto Blue Jays", , , , , ,
+"SS", "", "Toronto Blue Jays", , , , , ,
+"3B", "", "Toronto Blue Jays", , , , , ,
+"LF", "", "Toronto Blue Jays", , , , , ,
+"CF", "", "Toronto Blue Jays", , , , , ,
+"RF", "", "Toronto Blue Jays", , , , , ,
+"DH", "", "Toronto Blue Jays", , , , , ,
