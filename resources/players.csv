@@ -134,96 +134,96 @@ position, name, team, ab, avg, hr, obp, slg, bwar
 "CF", "Alex Call", "Washington Nationals", 439, 200, 8, 307, 307, 1.1
 "RF", "Lane Thomas", "Washington Nationals", 682, 268, 28, 315, 468, 3.2
 "DH", "Joey Meneses", "Washington Nationals", 657, 275, 13, 321, 401, 0.5
-"C", "", "Baltimore Orioles", ,	, , , , 
-"1B", "", "Baltimore Orioles", , , , , ,
-"2B", "", "Baltimore Orioles", , , , , ,
-"SS", "", "Baltimore Orioles", , , , , ,
-"3B", "", "Baltimore Orioles", , , , , ,
-"LF", "", "Baltimore Orioles", , , , , ,
-"CF", "", "Baltimore Orioles", , , , , ,
-"RF", "", "Baltimore Orioles", , , , , ,
-"DH", "", "Baltimore Orioles", , , , , ,
-"C", "", "Boston Red Sox", ,	, , , , 
-"1B", "", "Boston Red Sox", , , , , ,
-"2B", "", "Boston Red Sox", , , , , ,
-"SS", "", "Boston Red Sox", , , , , ,
-"3B", "", "Boston Red Sox", , , , , ,
-"LF", "", "Boston Red Sox", , , , , ,
-"CF", "", "Boston Red Sox", , , , , ,
-"RF", "", "Boston Red Sox", , , , , ,
-"DH", "", "Boston Red Sox", , , , , ,
-"C", "", "Chicago White Sox", ,	, , , , 
-"1B", "", "Chicago White Sox", , , , , ,
-"2B", "", "Chicago White Sox", , , , , ,
-"SS", "", "Chicago White Sox", , , , , ,
-"3B", "", "Chicago White Sox", , , , , ,
-"LF", "", "Chicago White Sox", , , , , ,
-"CF", "", "Chicago White Sox", , , , , ,
-"RF", "", "Chicago White Sox", , , , , ,
-"DH", "", "Chicago White Sox", , , , , ,
-"C", "", "Cleveland Guardians", ,	, , , , 
-"1B", "", "Cleveland Guardians", , , , , ,
-"2B", "", "Cleveland Guardians", , , , , ,
-"SS", "", "Cleveland Guardians", , , , , ,
-"3B", "", "Cleveland Guardians", , , , , ,
-"LF", "", "Cleveland Guardians", , , , , ,
-"CF", "", "Cleveland Guardians", , , , , ,
-"RF", "", "Cleveland Guardians", , , , , ,
-"DH", "", "Cleveland Guardians", , , , , ,
-"C", "", "Detroit Tigers", ,	, , , , 
-"1B", "", "Detroit Tigers", , , , , ,
-"2B", "", "Detroit Tigers", , , , , ,
-"SS", "", "Detroit Tigers", , , , , ,
-"3B", "", "Detroit Tigers", , , , , ,
-"LF", "", "Detroit Tigers", , , , , ,
-"CF", "", "Detroit Tigers", , , , , ,
-"RF", "", "Detroit Tigers", , , , , ,
-"DH", "", "Detroit Tigers", , , , , ,
-"C", "", "Houston Astros", ,	, , , , 
-"1B", "", "Houston Astros", , , , , ,
-"2B", "", "Houston Astros", , , , , ,
-"SS", "", "Houston Astros", , , , , ,
-"3B", "", "Houston Astros", , , , , ,
-"LF", "", "Houston Astros", , , , , ,
-"CF", "", "Houston Astros", , , , , ,
-"RF", "", "Houston Astros", , , , , ,
-"DH", "", "Houston Astros", , , , , ,
-"C", "", "Kansas City Royals", ,	, , , , 
-"1B", "", "Kansas City Royals", , , , , ,
-"2B", "", "Kansas City Royals", , , , , ,
-"SS", "", "Kansas City Royals", , , , , ,
-"3B", "", "Kansas City Royals", , , , , ,
-"LF", "", "Kansas City Royals", , , , , ,
-"CF", "", "Kansas City Royals", , , , , ,
-"RF", "", "Kansas City Royals", , , , , ,
-"DH", "", "Kansas City Royals", , , , , ,
-"C", "", "Los Angeles Angels", ,	, , , , 
-"1B", "", "Los Angeles Angels", , , , , ,
-"2B", "", "Los Angeles Angels", , , , , ,
-"SS", "", "Los Angeles Angels", , , , , ,
-"3B", "", "Los Angeles Angels", , , , , ,
-"LF", "", "Los Angeles Angels", , , , , ,
-"CF", "", "Los Angeles Angels", , , , , ,
-"RF", "", "Los Angeles Angels", , , , , ,
-"DH", "", "Los Angeles Angels", , , , , ,
-"C", "", "Minnesota Twins", ,	, , , , 
-"1B", "", "Minnesota Twins", , , , , ,
-"2B", "", "Minnesota Twins", , , , , ,
-"SS", "", "Minnesota Twins", , , , , ,
-"3B", "", "Minnesota Twins", , , , , ,
-"LF", "", "Minnesota Twins", , , , , ,
-"CF", "", "Minnesota Twins", , , , , ,
-"RF", "", "Minnesota Twins", , , , , ,
-"DH", "", "Minnesota Twins", , , , , ,
-"C", "", "New York Yankees", ,	, , , , 
+"C", "Adley Rutschman", "Baltimore Orioles", 687, 277, 20, 374, 435, 4.3
+"1B", "Ryan Mountcastle", "Baltimore Orioles", 470, 270, 18, 328, 452, 2.1
+"2B", "Adam Frazier", "Baltimore Orioles", 455, 240, 13, 300, 396, 1.7
+"SS", "Gunnar Henderson", "Baltimore Orioles", 622, 255, 28, 325, 489, 6.2
+"3B", "Ramon Urias", "Baltimore Orioles", 396, 264, 4, 328, 375, 1.8
+"LF", "Austin Hays", "Baltimore Orioles", 566, 275, 16, 325, 444, 2.5
+"CF", "Cedric Mullins", "Baltimore Orioles", 455, 233, 15, 305, 416, 2.8
+"RF", "Anthony Santander", "Baltimore Orioles", 656, 257, 28, 325, 472, 3.0
+"DH", "Ryan O'Hearn", "Baltimore Orioles", 368, 289, 14, 322, 480, 1.2
+"C", "Connor Wong", "Boston Red Sox", 403, 235, 9, 288, 385, 2.2
+"1B", "Triston Casas", "Boston Red Sox", 502, 263, 24, 367, 490, 2.2
+"2B", "Christian Arroyo", "Boston Red Sox", 206, 241, 3, 268, 369, -0.2
+"SS", "Kike Hernandez", "Boston Red Sox", 508, 237, 11, 289, 357, -0.1
+"3B", "Rafael Devers", "Boston Red Sox", 656, 271, 33, 351, 500, 3.5
+"LF", "Masataka Yoshida", "Boston Red Sox", 580, 289, 15, 338, 445, 1.4
+"CF", "Jarren Duran", "Boston Red Sox", 362, 295, 8, 346, 482, 2.1
+"RF", "Alex Verdugo", "Boston Red Sox", 602, 264, 13, 324, 421, 2.6
+"DH", "Justin Turner", "Boston Red Sox", 626, 276, 23, 345, 455, 2.1
+"C", "Yasmani Grandal", "Chicago White Sox", 405, 234, 8, 309, 339, -0.7
+"1B", "Andrew Vaughn", "Chicago White Sox", 615, 258, 21, 314, 429, 0.9
+"2B", "Yoan Moncada", "Chicago White Sox", 357, 260, 11, 305, 425, 0.7
+"SS", "Tim Andderson", "Chicago White Sox", 524, 245, 1, 286, 296, -2.0
+"3B", "Jake Burger", "Chicago White Sox", 540, 250, 34, 309, 518, 2.5
+"LF", "Andrew Benintendi", "Chicago White Sox", 621, 262, 5, 326, 356, 0.2
+"CF", "Luis Robert Jr.", "Chicago White Sox", 595, 264, 38, 315, 542, 5.0
+"RF", "Gavin Sheets", "Chicago White Sox", 344, 203, 10, 267, 331, -1.5
+"DH", "Eloy Jimenez", "Chicago White Sox", 489, 272, 18, 317, 441, 0.3
+"C", "Bo Naylor", "Cleveland Guardians", 230, 237, 11, 339, 470, 1.5
+"1B", "Josh Naylor", "Cleveland Guardians", 495, 308, 17, 354, 489, 2.5
+"2B", "Andres Gimenez", "Cleveland Guardians", 616, 251, 15, 314, 399, 5.3
+"SS", "Amed Rosario", "Cleveland Guardians", 545, 263, 6, 305, 378, 0.4
+"3B", "Jose Ramirez", "Cleveland Guardians", 691, 282, 24, 356, 475, 5.1
+"LF", "Steven Kwan", "Cleveland Guardians", 718, 268, 5, 340, 370, 3.6
+"CF", "Myles Straw", "Cleveland Guardians", 518, 238, 1, 301, 297, 1.1
+"RF", "Will Brennan", "Cleveland Guardians", 455, 266, 5, 299, 356, 0.5
+"DH", "Josh Bell", "Cleveland Guardians", 547, 247, 22, 325, 419, 0.4
+"C", "Jake Rogers", "Detroit Tigers", 365, 221, 21, 286, 444, 0.7
+"1B", "Spencer Torkelson", "Detroit Tigers", 684, 233, 31, 313, 446, 0.8
+"2B", "Andy Ibanez", "Detroit Tigers", 383, 264, 11, 312, 433, 2.0
+"SS", "Javier Baez", "Detroit Tigers", 547, 222, 9, 267, 325, 0.6
+"3B", "Zach McKinstry", "Detroit Tigers", 518, 231, 9, 302, 351, 1.1
+"LF", "Matt Vierling", "Detroit Tigers", 530, 261, 10, 329, 388, 1.5
+"CF", "Riley Greene", "Detroit Tigers", 416, 288, 11, 349, 447, 1.9
+"RF", "Kerry Carpenter", "Detroit Tigers", 459, 278, 20, 340, 471, 1.9
+"DH", "Miguel Cabrera", "Detroit Tigers", 370, 257, 4, 322, 353, -0.4
+"C", "Yainer Diaz", "Houston Astros", 377, 282, 23, 308, 538, 3.2
+"1B", "Jose Abreu", "Houston Astros", 594, 237, 18, 296, 383, 0.0
+"2B", "Jose Altuve", "Houston Astros", 410, 311, 17, 393, 522, 2.8
+"SS", "Jeremy Pena", "Houston Astros", 634, 263, 10, 324, 381, 3.8
+"3B", "Alex Bregman", "Houston Astros", 724, 262, 25, 363, 441, 4.9
+"LF", "Chas McCormick", "Houston Astros", 457, 273, 22, 353, 489, 3.6
+"CF", "Jake Meyers", "Houston Astros", 341, 227, 10, 296, 382, 1.6
+"RF", "Kyle Tucker", "Houston Astros", 674, 284, 29, 369, 517, 5.4
+"DH", "Yordan Alvarez", "Houston Astros", 496, 293, 31, 407, 583, 4.6
+"C", "Salvador Perez", "Kansas City Royals", 580, 255, 23, 292, 422, 0.5
+"1B", "Nick Pratto", "Kansas City Royals", 345, 232, 7, 307, 353, -1.3
+"2B", "Michael Massey", "Kansas City Royals", 461, 229, 15, 274, 381, -0.1
+"SS", "Bobby Witt Jr.", "Kansas City Royals", 694, 276, 30, 319, 495, 4.4
+"3B", "Maikel Garcia", "Kansas City Royals", 515, 272, 4, 323, 358, 1.1
+"LF", "Edward Olivares", "Kansas City Royals", 385, 263, 12, 317, 452, 0.3
+"CF", "Kyle Isbel", "Kansas City Royals", 313, 240, 5, 282, 380, 2.1
+"RF", "MJ Melendez", "Kansas City Royals", 602, 235, 16, 316, 398, -0.4
+"DH", "Vinnie Pasquantino", "Kansas City Royals", 260, 247, 9, 324, 437, 0.1
+"C", "Logan O'Hoppe", "Los Angeles Angels", 199, 236, 14, 296, 500, 0.6
+"1B", "Taylor Ward", "Los Angeles Angels", 409, 253, 14, 335, 421, 1.7
+"2B", "Brandon Drury", "Los Angeles Angels", 523, 262, 26, 306, 497, 1.9
+"SS", "Zach Neto", "Los Angeles Angels", 329, 225, 9, 308, 377, 1.6
+"3B", "Luis Rengifo", "Los Angeles Angels", 445, 264, 16, 339, 444, 1.9
+"LF", "Mickey Moniak", "Los Angeles Angels", 323, 280, 14, 307, 495, 2.2
+"CF", "Mike Trout", "Los Angeles Angels", 362, 263, 18, 367, 490, 2.9
+"RF", "Hunter Renfroe", "Los Angeles Angels", 548, 233, 20, 297, 416, -0.6
+"DH", "Shohei Ohtani", "Los Angeles Angels", 599, 304, 44, 412, 654, 9.9
+"C", "Ryan Jeffers", "Minnesota Twins", 335, 276, 14, 369, 490, 3.3
+"1B", "Donovan Solano", "Minnesota Twins", 450, 282, 5, 369, 391, 1.7
+"2B", "Edouard Julien", "Minnesota Twins", 408, 263, 16, 381, 459, 2.6
+"SS", "Carlos Correa", "Minnesota Twins", 580, 230, 18, 312, 399, 1.4
+"3B", "Royce Lewis", "Minnesota Twins", 239, 309, 15, 372, 548, 2.4
+"LF", "Willi Castro", "Minnesota Twins", 409, 257, 9, 339, 411, 2.7
+"CF", "Michael A. Taylor", "Minnesota Twins", 388, 220, 21, 278, 442, 1.9
+"RF", "Max Kepler", "Minnesota Twins", 491, 260, 24, 332, 484, 2.9
+"DH", "Byron Buxton", "Minnesota Twins", 347, 207, 17, 294, 438, 0.8
+"C", "Kyle ", "New York Yankees", ,	, , , , 
 "1B", "", "New York Yankees", , , , , ,
-"2B", "", "New York Yankees", , , , , ,
-"SS", "", "New York Yankees", , , , , ,
-"3B", "", "New York Yankees", , , , , ,
+"2B", "Gleyber Torres", "New York Yankees", 672, 273, 25, 347, 453, 2.9
+"SS", "Anthony Volpe", "New York Yankees", 601, 209, 21, 283, 383, 3.3
+"3B", "DJ LeMahieu", "New York Yankees", 562, 243, 15, 327, 390, 1.3
 "LF", "", "New York Yankees", , , , , ,
-"CF", "", "New York Yankees", , , , , ,
-"RF", "", "New York Yankees", , , , , ,
-"DH", "", "New York Yankees", , , , , ,
+"CF", "Harrison Bader", "New York Yankees", , , , , ,
+"RF", "Aaron Judge", "New York Yankees", 458, 267, 37, 406, 613, 4.5
+"DH", "Giancarlo Stanton", "New York Yankees", 415, 191, 24, 275, 420, -0.8
 "C", "", "Oakland Athletics", ,	, , , , 
 "1B", "", "Oakland Athletics", , , , , ,
 "2B", "", "Oakland Athletics", , , , , ,
