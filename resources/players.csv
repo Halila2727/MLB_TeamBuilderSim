@@ -215,57 +215,57 @@ position, name, team, ab, avg, hr, obp, slg, bwar
 "CF", "Michael A. Taylor", "Minnesota Twins", 388, 220, 21, 278, 442, 1.9
 "RF", "Max Kepler", "Minnesota Twins", 491, 260, 24, 332, 484, 2.9
 "DH", "Byron Buxton", "Minnesota Twins", 347, 207, 17, 294, 438, 0.8
-"C", "Kyle ", "New York Yankees", ,	, , , , 
-"1B", "", "New York Yankees", , , , , ,
+"C", "Kyle Higashioka", "New York Yankees", 260, 236, 10, 274, 413, -0.3
+"1B", "Anthony Rizzo", "New York Yankees", 421, 244, 12, 328, 378, 0.5
 "2B", "Gleyber Torres", "New York Yankees", 672, 273, 25, 347, 453, 2.9
 "SS", "Anthony Volpe", "New York Yankees", 601, 209, 21, 283, 383, 3.3
 "3B", "DJ LeMahieu", "New York Yankees", 562, 243, 15, 327, 390, 1.3
-"LF", "", "New York Yankees", , , , , ,
-"CF", "Harrison Bader", "New York Yankees", , , , , ,
+"LF", "Oswaldo Cabrera", "New York Yankees", 330, 211, 5, 275, 299, -1.5
+"CF", "Harrison Bader", "New York Yankees", 344, 232, 7, 274, 348, 0.6
 "RF", "Aaron Judge", "New York Yankees", 458, 267, 37, 406, 613, 4.5
 "DH", "Giancarlo Stanton", "New York Yankees", 415, 191, 24, 275, 420, -0.8
-"C", "", "Oakland Athletics", ,	, , , , 
-"1B", "", "Oakland Athletics", , , , , ,
-"2B", "", "Oakland Athletics", , , , , ,
-"SS", "", "Oakland Athletics", , , , , ,
-"3B", "", "Oakland Athletics", , , , , ,
-"LF", "", "Oakland Athletics", , , , , ,
-"CF", "", "Oakland Athletics", , , , , ,
-"RF", "", "Oakland Athletics", , , , , ,
-"DH", "", "Oakland Athletics", , , , , ,
-"C", "", "Seattle Mariners", ,	, , , , 
-"1B", "", "Seattle Mariners", , , , , ,
-"2B", "", "Seattle Mariners", , , , , ,
-"SS", "", "Seattle Mariners", , , , , ,
-"3B", "", "Seattle Mariners", , , , , ,
-"LF", "", "Seattle Mariners", , , , , ,
-"CF", "", "Seattle Mariners", , , , , ,
-"RF", "", "Seattle Mariners", , , , , ,
-"DH", "", "Seattle Mariners", , , , , ,
-"C", "", "Tampa Bay Rays", ,	, , , , 
-"1B", "", "Tampa Bay Rays", , , , , ,
-"2B", "", "Tampa Bay Rays", , , , , ,
-"SS", "", "Tampa Bay Rays", , , , , ,
-"3B", "", "Tampa Bay Rays", , , , , ,
-"LF", "", "Tampa Bay Rays", , , , , ,
-"CF", "", "Tampa Bay Rays", , , , , ,
-"RF", "", "Tampa Bay Rays", , , , , ,
-"DH", "", "Tampa Bay Rays", , , , , ,
-"C", "", "Texas Rangers", ,	, , , , 
-"1B", "", "Texas Rangers", , , , , ,
-"2B", "", "Texas Rangers", , , , , ,
-"SS", "", "Texas Rangers", , , , , ,
-"3B", "", "Texas Rangers", , , , , ,
-"LF", "", "Texas Rangers", , , , , ,
-"CF", "", "Texas Rangers", , , , , ,
-"RF", "", "Texas Rangers", , , , , ,
-"DH", "", "Texas Rangers", , , , , ,
-"C", "", "Toronto Blue Jays", ,	, , , , 
-"1B", "", "Toronto Blue Jays", , , , , ,
-"2B", "", "Toronto Blue Jays", , , , , ,
-"SS", "", "Toronto Blue Jays", , , , , ,
-"3B", "", "Toronto Blue Jays", , , , , ,
-"LF", "", "Toronto Blue Jays", , , , , ,
-"CF", "", "Toronto Blue Jays", , , , , ,
-"RF", "", "Toronto Blue Jays", , , , , ,
-"DH", "", "Toronto Blue Jays", , , , , ,
+"C", "Shea Langeliers", "Oakland Athletics", 490, 205, 22, 268, 413, 1.1
+"1B", "Ryan Noda", "Oakland Athletics", 495, 229, 16, 364, 406, 2.3
+"2B", "Zack Gelof", "Oakland Athletics", 300, 267, 14, 337, 504, 2.6
+"SS", "Nick Allen", "Oakland Athletics", 329, 221, 4, 263, 287, 0.3
+"3B", "Jace Peterson", "Oakland Athletics", 430, 211, 6, 304, 307, -0.3
+"LF", "Tony Kemp", "Oakland Athletics", 419, 209, 5, 303, 304, -1.0
+"CF", "Esteury Ruiz", "Oakland Athletics", 497, 254, 5, 309, 345, -0.1
+"RF", "Ramon Laureano", "Oakland Athletics", 404, 224, 9, 304, 371, 1.9
+"DH", "Brent Rooker", "Oakland Athletics", 526, 246, 30, 329, 488, 2.2
+"C", "Cal Raleigh", "Seattle Mariners", 569, 232, 30, 306, 456, 3.2
+"1B", "Ty France", "Seattle Mariners", 665, 250, 12, 337, 366, 0.7
+"2B", "Jose Caballero", "Seattle Mariners", 280, 221, 4, 343, 320, 2.4
+"SS", "JP Crawford", "Seattle Mariners", 638, 266, 19, 380, 438, 5.1
+"3B", "Eugenio Suarez", "Seattle Mariners", 694, 232, 22, 323, 391, 2.3
+"LF", "Jarred Kelenic", "Seattle Mariners", 416, 253, 11, 327, 419, 2.0
+"CF", "Julio Rodriguez", "Seattle Mariners", 714, 275, 32, 333, 485, 5.3
+"RF", "Teoscar Hernandez", "Seattle Mariners", 678, 258, 26, 305, 435, 2.1
+"DH", "Mike Ford", "Seattle Mariners", 251, 228, 16, 323, 475, 0.8
+"C", "Christian Bethancourt", "Tampa Bay Rays", 332, 225, 11, 254, 381, 0.7
+"1B", "Yandy Diaz", "Tampa Bay Rays", 600, 330, 22, 410, 522, 5.2
+"2B", "Brandon Lowe", "Tampa Bay Rays", 436, 231, 21, 328, 443, 2.1
+"SS", "Taylor Walls", "Tampa Bay Rays", 349, 201, 8, 305, 333, 2.0
+"3B", "Isaac Paredes", "Tampa Bay Rays", 571, 250, 31, 352, 488, 4.2
+"LF", "Randy Arozarena", "Tampa Bay Rays", 654, 254, 23, 364, 425, 3.5
+"CF", "Jose Siri", "Tampa Bay Rays", 364, 222, 25, 267, 494, 1.7
+"RF", "Josh Lowe", "Tampa Bay Rays", 501, 292, 20, 335, 500, 3.7
+"DH", "Harold Ramirez", "Tampa Bay Rays", 434, 313, 12, 353, 460, 2.1
+"C", "Jonah Heim", "Texas Rangers", 501, 258, 18, 317, 438, 2.9
+"1B", "Nathaniel Lowe", "Texas Rangers", 724, 262, 17, 360, 414, 2.6
+"2B", "Marcus Semien", "Texas Rangers", 753, 276, 29, 348, 478, 7.4
+"SS", "Corey Seager", "Texas Rangers", 536, 327, 33, 390, 623, 6.9
+"3B", "Josh Jung", "Texas Rangers", 515, 266, 23, 315, 467, 2.4
+"LF", "Travis Jankowski", "Texas Rangers", 287, 263, 1, 357, 332, 1.4
+"CF", "Leody Taveras", "Texas Rangers", 554, 266, 14, 312, 421, 2.6
+"RF", "Adolis Garcia", "Texas Rangers", 632, 245, 39, 328, 508, 4.2
+"DH", "Mitch Garver", "Texas Rangers", 344, 270, 19, 370, 500, 2.1
+"C", "Alejandro Kirk", "Toronto Blue Jays", 422, 250, 8, 334, 358, 1.9
+"1B", "Vladimir Guerrero Jr.", "Toronto Blue Jays", 682, 264, 26, 345, 444, 2.0
+"2B", "Whit Merrifield", "Toronto Blue Jays", 592, 272, 11, 318, 382, 0.7
+"SS", "Bo Bichette", "Toronto Blue Jays", 601, 306, 20, 339, 475, 4.9
+"3B", "Matt Chapman", "Toronto Blue Jays", 581, 240, 17, 330, 424, 4.4
+"LF", "Daulton Varsho", "Toronto Blue Jays", 581, 220, 20, 285, 389, 3.9
+"CF", "Kevin Kiermaier", "Toronto Blue Jays", 408, 265, 8, 322, 419, 3.9
+"RF", "George Springer", "Toronto Blue Jays", 683, 258, 21, 327, 405, 2.1
+"DH", "Brandon Belt", "Toronto Blue Jays", 404, 254, 19, 369, 490, 2.0
