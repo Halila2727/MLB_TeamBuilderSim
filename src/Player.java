@@ -33,4 +33,13 @@ public class Player
     public int getObp() { return obp; }
     public int getSlg() { return slg; }
     public double getBwar() { return bwar; }
+
+    public String printAttributes()
+    {
+        return (
+            getName() + ", " + getPosition() + ", in " + getAB() + 
+            " at bats, had a slashline of ." + getAvg() + "/." +
+            getObp() + "/." + getSlg() +  " and hit for " + 
+            getHR() + " homeruns!");
+    }
 }
